@@ -1,5 +1,5 @@
 # Flex-Grid-Challenge
-## Thear are three cgallenges 
+## Thear are three Challenge 
   * Flex-Grid-Challenge-1
     * contain 
       * Flex Challenge 
